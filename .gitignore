@@ -1,0 +1,6 @@
+# web server exectuable
+server
+
+# static site build artifacts
+build/
+
